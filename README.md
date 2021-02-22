@@ -1,2 +1,2 @@
 # LULCODE's website
-## Our site on GitHub pages
+### Our site on GitHub pages
